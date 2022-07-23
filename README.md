@@ -3,6 +3,10 @@ Dropship loadout increased to 35 slots.
 
 Shengong O2 tank and canteen come pre-filled before every mission
 
+Increased stack size on almost everything
+
+Arrows, ammo, electronics, epoxy, resin, tree sap all craft in lots of 5
+
 Workshop Biofuel can has 50l of fuel
 
 Biofuel Generator now has a power network of 20,000 & Solar Panel now has a power network of 10,000.
