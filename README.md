@@ -1,21 +1,25 @@
 # Icarus-Overhaul Mod
 Dropship loadout increased to 35 slots.
 
-Shengong O2 tank and canteen come pre-filled before every mission
+Shengong O2 tank and canteen come pre-filled before every mission.
 
-Increased stack size on almost everything
+Increased stack size on almost everything.
 
-Arrows, ammo, electronics, epoxy, resin, tree sap all craft in lots of 5
+Arrows, ammo, electronics, epoxy, resin, tree sap all craft in lots of 5.
 
-Workshop Biofuel has 50L of fuel
+Workshop Biofuel has 50L of fuel.
+
+Workshop arrow bundles all come as full 100 stacks upon consuming. 
 
 Biofuel Generator now has a power network of 20,000 & Solar Panel now has a power network of 10,000.
 
-All envirosuits now have 2 modual slots 
+All envirosuits now have 2 modual slots.
 
-Inarus & first cohort envirosuits have 4 modual slots, +100 maximum stamina, & +50% stamina regeneration 
+Inarus & first cohort envirosuits have 4 modual slots, +100 maximum stamina, & +50% stamina regeneration.
 
-Larkwell arrows craftable on fabricator
+Tweaked a few stats on backpacks, & moduals.
+
+Larkwell arrows craftable on fabricator.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
