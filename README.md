@@ -28,7 +28,7 @@
 * Bolts Crafts In Lots Of 5
 * Ammo Crafts In Lots Of 5
 * Bulk Ammo Crafts In Lots Of 25.
-* Larkwell arrows craftable on fabricator In Lots Of 25. thanks to @ Critical_Fail
+* Larkwell arrows craftable on fabricator In Lots Of 25. thanks @ Critical_Fail
 
 **POWER NETWORK & FUEL**
 * Biofuel Generator has a power network of 20,000 
