@@ -1,9 +1,9 @@
 # Nics_Overhual
 
 **Dropship Slots**
-* Dropship loadout increased to 20 slots (Nics_Overhaul_20_P)
-* Dropship loadout increased to 30 slots (Nics_Overhaul_30_P)
-* Dropship loadout increased to 35 slots (Nics_Overhaul_35_P)
+* Dropship loadout increased to 20 slots (Nics_Overhaul_20_P.pak)
+* Dropship loadout increased to 30 slots (Nics_Overhaul_30_P.pak)
+* Dropship loadout increased to 35 slots (Nics_Overhaul_35_P.pak)
 
 **Envirosuits**
 * All suits have +1 slots than normal for upgrade modules
