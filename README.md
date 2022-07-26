@@ -44,4 +44,4 @@
 
 DISCLAIMER: these mods are intended for Offline and/or solo play. It can potentially ruin the game for others when playing together. If you play with a regular group, please recommend all parties install the mod to prevent adverse effects. Running mods in a group setting without everyone else running them can cause all sorts of problems (items missing, crashes, etc.)
 
-INSTALLATION: if you do not already have one, you need to create a new folder and name it 'mods' in the following directory - Disk > Program Files (x86) > steamapps > common > Icarus > Icarus > Content > Paks. Download .pak file, and drag and drop into the mods folder you created. Good to go!
+INSTALLATION: Go to your game files directory, go to "\Icarus\Content\Paks\mods", if there is no "mods" folder, just create and rename one. Drop one of the .pak file inside the "mods" folder, and you are done. Launch the game to play
