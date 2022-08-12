@@ -1,6 +1,6 @@
 # Nics Mod Pak
 **Complete Game Overhaul Pack**
-* Updated For Week 35
+* Updated For Week 36
 -----------------------------------------------------------------------------------------------------------------------------------
 **Dropship Loadout**
 * Dropship Loadout Increased To 35 Slots 
